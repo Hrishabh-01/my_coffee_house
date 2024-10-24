@@ -1,16 +1,23 @@
-# my_coffee_house
+# My Coffee House ☕️
 
-A new Flutter project.
+A full-stack mobile application built with **Flutter**, providing a seamless coffee-ordering experience. This app integrates Firebase for authentication, storage, and real-time data syncing, along with several other features that make it dynamic and user-friendly.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Firebase Authentication**: Secure user sign-up and login.
+- **Firebase Storage**: Store and retrieve images (such as user profile pictures or coffee-related images).
+- **Real-time Data Sync**: Automatically updates across devices using Firebase Firestore.
+- **REST API Integration**: Fetch dynamic data and interact with external APIs.
+- **Dynamic Layouts**: Adaptive UI to provide an excellent user experience across various screen sizes.
+- **Camera Feature**: Capture and upload images directly from the app.
+- **Real-time Picture Upload**: Instant photo uploads to the backend and real-time display in the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- **Frontend**: Flutter (Dart)
+- **Backend**: Firebase (Firestore, Storage, Authentication)
+- **API**: REST API integration
+- **State Management**: Provider (or another state management solution)
+
